@@ -9,7 +9,7 @@ npm install
 
 可使用[Lesa Hosting](https://lesa-hosting.cf)託管讓您的Bot可以24小時上線!
 
-## 邀請:
+## 邀請
 ```
 https://discord.com/api/oauth2/authorize?client_id=1028283643094892675&permissions=1239101589600&scope=bot%20applications.commands
 ```
