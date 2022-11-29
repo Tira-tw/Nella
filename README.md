@@ -7,7 +7,7 @@ npm install
 ```
 ## 託管
 
-可使用[Lesa Hosting](https://lesa-hosting.cf)託管讓您的Bot可以24小時上線!
+可使用[Vera Hosting](https://www.vera-hosting.xyz)託管讓您的Bot可以24小時上線!
 
 ## 邀請
 ```
