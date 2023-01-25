@@ -11,7 +11,7 @@ npm install
 
 ## 邀請
 ```
-https://discord.com/api/oauth2/authorize?client_id=1028283643094892675&permissions=1239101589600&scope=bot%20applications.commands
+https://discord.com/api/oauth2/authorize?client_id=1067731490143744061&permissions=1239101589600&scope=bot%20applications.commands
 ```
 ## 聲明
 
